@@ -1,0 +1,23 @@
+/***********************************Tag Selectors***************************/
+body {
+
+  background-color:#ffdecf;
+  font-size: 20px;
+
+}
+hr {
+  border-style: dotted none none;
+  width: 5%;
+  border-width: 5px;
+  border-color: grey;
+}
+h1 {
+  color: #99b898;
+  font-size: 40px;
+}
+h3 {
+  color:#99b898;
+}
+/********************************Class***************************/
+
+/********************************ID***************************/
